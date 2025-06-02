@@ -211,10 +211,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for caching data.*
 
 * [beaker](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
-* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
-* [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
+* [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and in for Django models.
+* [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven in.
 * [dogpile.cache](https://github.com/sqlalchemy/dogpile.cache) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
-* [hermescache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
+* [hermescache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based in and dogpile effect prevention.
 * [pylibmc](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 * [python-diskcache](https://github.com/grantjenks/python-diskcache) - SQLite and file backed cache backend with faster lookups than memcached and redis.
 
@@ -302,7 +302,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Libraries for storing and parsing configuration options.*
 
 * [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
-* [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation.
+* [configobj](https://github.com/DiffSK/configobj) - INI file parser with .
 * [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 * [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 
@@ -325,13 +325,14 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Libraries for validating data. Used for forms in many cases.*
 
-* [cerberus](https://github.com/pyeve/cerberus) - A lightweight and extensible data validation library.
+* [cerberus](https://github.com/pyeve/cerberus) - A lightweight and extensible data  library.
 * [colander](https://github.com/Pylons/colander) - Validating and deserializing data obtained via XML, JSON, an HTML form post.
 * [jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of [JSON Schema](http://json-schema.org/) for Python.
 * [schema](https://github.com/keleshev/schema) - A library for validating Python data structures.
-* [schematics](https://github.com/schematics/schematics) - Data Structure Validation.
-* [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data validation library.
-* [pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints.
+* [schematics](https://github.com/schematics/schematics) - Data Structure .
+* [voluptuous](https://github.com/alecthomas/voluptuous) - A Python data  library.
+* [pydantic](https://github.com/pydantic/pydantic) - Data  using Python type hints.
+* [pointblank](https://github.com/posit-dev/pointblank) - Validate a wide range of DataFrames and database tables.
 
 ## Data Visualization
 
